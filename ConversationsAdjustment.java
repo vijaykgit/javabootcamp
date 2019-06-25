@@ -29,8 +29,8 @@ import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
 @JsonIgnoreProperties(ignoreUnknown = true)
 public class ConversationsAdjustment implements Serializable {
 
-  private Integer additionalLimit;
-  private Date endDate;
+  private Integer integer;
+  private Date sum;
 
   public ConversationsAdjustment(Integer additionalLimit, Date endDate) {
     this.additionalLimit = additionalLimit;
