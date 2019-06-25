@@ -1,2 +1,7 @@
-hii girls
+<<<<<<< HEAD
+hii girls how r u ?
 
+
+=======
+updated the file
+>>>>>>> 55005cd1191c460bea6f80b886fbb6aad2c4e3b2
