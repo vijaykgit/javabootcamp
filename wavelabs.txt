@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 haii everyone
+=======
+hii...this is lipsa
+updated the file
+>>>>>>> 55280eae4b80b24509ede60d2aa8ab75c58b36d5
 
