@@ -6,6 +6,7 @@ public class wavelabs
      int y=20;
   sys(" x="+x);
   sys("y="+y);
-}
-}
+syso(" x+y");
 
+}
+}
