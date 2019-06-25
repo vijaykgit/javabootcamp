@@ -7,6 +7,7 @@ public class wavelabs
   sys(" x="+x);
   sys("y="+y);
 syso(" x+y");
+sys("x=");
 
 }
 }
