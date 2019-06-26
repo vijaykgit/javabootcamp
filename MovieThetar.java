@@ -29,6 +29,8 @@ public class MovieTheater {
 		System.out.println(" only this"+"  "+TICKETS+" "+"Tickets Left");
 
 	}
+            
+       System.out.println(" main method ended");   
 
 }
 
