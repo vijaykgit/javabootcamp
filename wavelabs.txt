@@ -1,2 +1,8 @@
+<<<<<<< HEAD
 hey how are you
 hai i vinod wavelabs technologiess
+=======
+
+hii girls how r u?
+
+>>>>>>> ab578390eeae0d90a7ed20325c3ca430d30e9d37
