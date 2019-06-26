@@ -1,2 +1,12 @@
+<<<<<<< HEAD
 hey how are you
+<<<<<<< HEAD
 it's praction session
+=======
+hai i vinod wavelabs technologiess
+=======
+
+hii girls how r u?
+
+>>>>>>> ab578390eeae0d90a7ed20325c3ca430d30e9d37
+>>>>>>> 1cedf31795a0be22be3d310cd085c980bd1311bf
